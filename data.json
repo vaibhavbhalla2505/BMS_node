@@ -1,0 +1,51 @@
+[
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "isbn": "9780201616224",
+    "publicationDate": "1999-10-30",
+    "genre": "Programming"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "publicationDate": "2008-08-01",
+    "genre": "Programming"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "9780735211292",
+    "publicationDate": "2018-10-16",
+    "genre": "Self-Help"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "1234567891234",
+    "publicationDate": "2011-09-04",
+    "genre": "Programming"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "1234567891234",
+    "publicationDate": "2011-09-04",
+    "genre": "Poetry"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "1234567891234",
+    "publicationDate": "2011-09-04",
+    "genre": "History"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "1234567891234",
+    "publicationDate": "2011-09-05",
+    "genre": "History"
+  }
+]
